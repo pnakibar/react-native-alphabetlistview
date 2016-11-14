@@ -197,8 +197,7 @@ const styles = StyleSheet.create({
   },
 
   text: {
-    fontWeight: '700',
-    color: '#008fff'
+    color: '#474747'
   },
 
   inactivetext: {
